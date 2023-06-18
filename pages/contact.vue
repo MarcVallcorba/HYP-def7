@@ -13,7 +13,7 @@
          <li class="breadcrumb-item"> <NuxtLink to = "/contact"><a>Contact us</a></NuxtLink></li>
     </ol>
   <Overview class="overview" :sections="['Form','Useful phone numbers', 'Useful emails']"/>
-  <Return class="return_top"/>
+  <Return class="return_top" />
 
 
 
